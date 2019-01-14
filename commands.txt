@@ -1,0 +1,9 @@
+#commands 
+git config --global user.name "write_your_username"
+git config --global user.email "write_your_email"
+git clone url_of_repository
+git status
+git add file_name
+git commit -m "your commit message"
+git push -u origin master
+
